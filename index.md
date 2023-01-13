@@ -1,4 +1,4 @@
 ---
-title: Welcome to my Landing Page
+title: Welcome to my blog
 ---
 
